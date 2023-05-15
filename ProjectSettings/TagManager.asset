@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Flame
+  - Hat
   layers:
   - Default
   - TransparentFX
